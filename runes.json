@@ -1,0 +1,167 @@
+{
+    "el": {
+        "rune": "El",
+        "cost": "1",
+        "rank": "Low"
+    },
+    "eld": {
+        "rune": "Eld",
+        "cost": "2",
+        "rank": "Low"
+    },
+    "tir": {
+        "rune": "Tir",
+        "cost": "4",
+        "rank": "Low"
+    },
+    "nef": {
+        "rune": "Nef",
+        "cost": "8",
+        "rank": "Low"
+    },
+    "eth": {
+        "rune": "Eth",
+        "cost": "16",
+        "rank": "Low"
+    },
+    "ith": {
+        "rune": "Ith",
+        "cost": "32",
+        "rank": "Low"
+    },
+    "tal": {
+        "rune": "Tal",
+        "cost": "64",
+        "rank": "Low"
+    },
+    "ral": {
+        "rune": "Ral",
+        "cost": "128",
+        "rank": "Low"
+    },
+    "ort": {
+        "rune": "Ort",
+        "cost": "256",
+        "rank": "Low"
+    },
+    "thul": {
+        "rune": "Thul",
+        "cost": "512",
+        "rank": "Low"
+    },
+    "amn": {
+        "rune": "Amn",
+        "cost": "1024",
+        "rank": "Low"
+    },
+    "sol": {
+        "rune": "Sol",
+        "cost": "1",
+        "rank": "Mid"
+    },
+    "shael": {
+        "rune": "Shael",
+        "cost": "2",
+        "rank": "Mid"
+    },
+    "dol": {
+        "rune": "Dol",
+        "cost": "4",
+        "rank": "Mid"
+    },
+    "hel": {
+        "rune": "Hel",
+        "cost": "8",
+        "rank": "Mid"
+    },
+    "io": {
+        "rune": "Io",
+        "cost": "16",
+        "rank": "Mid"
+    },
+    "lum": {
+        "rune": "Lum",
+        "cost": "32",
+        "rank": "Mid"
+    },
+    "ko": {
+        "rune": "Ko",
+        "cost": "64",
+        "rank": "Mid"
+    },
+    "fal": {
+        "rune": "Fal",
+        "cost": "128",
+        "rank": "Mid"
+    },
+    "lem": {
+        "rune": "Lem",
+        "cost": "256",
+        "rank": "Mid"
+    },
+    "pul": {
+        "rune": "Pul",
+        "cost": "512",
+        "rank": "Mid"
+    },
+    "um": {
+        "rune": "Um",
+        "cost": "1024",
+        "rank": "Mid"
+    },
+    "mal": {
+        "rune": "Mal",
+        "cost": "1",
+        "rank": "High"
+    },
+    "ist": {
+        "rune": "Ist",
+        "cost": "2",
+        "rank": "High"
+    },
+    "gul": {
+        "rune": "Gul",
+        "cost": "4",
+        "rank": "High"
+    },
+    "vex": {
+        "rune": "Vex",
+        "cost": "8",
+        "rank": "High"
+    },
+    "ohm": {
+        "rune": "Ohm",
+        "cost": "16",
+        "rank": "High"
+    },
+    "lo": {
+        "rune": "Lo",
+        "cost": "32",
+        "rank": "High"
+    },
+    "sur": {
+        "rune": "Sur",
+        "cost": "64",
+        "rank": "High"
+    },
+    "ber": {
+        "rune": "Ber",
+        "cost": "128",
+        "rank": "High"
+    },
+    "jah": {
+        "rune": "Jah",
+        "cost": "256",
+        "rank": "High"
+    },
+    "cham": {
+        "rune": "Cham",
+        "cost": "512",
+        "rank": "High"
+    },
+    "zod": {
+        "rune": "Zod",
+        "cost": "1024",
+        "rank": "High"
+    }
+}

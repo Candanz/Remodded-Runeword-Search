@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Exocet';
+    src: url('font/ExocetLight.eot');
+    src: url('font/ExocetLight.eot?#iefix') format('embedded-opentype'),
+        url('font/ExocetLight.woff2') format('woff2'),
+        url('font/ExocetLight.woff') format('woff'),
+        url('font/ExocetLight.ttf') format('truetype'),
+        url('font/ExocetLight.svg#ExocetLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Exocet';
+    src: url('font/ExocetHeavy.eot');
+    src: url('font/ExocetHeavy.eot?#iefix') format('embedded-opentype'),
+        url('font/ExocetHeavy.woff2') format('woff2'),
+        url('font/ExocetHeavy.woff') format('woff'),
+        url('font/ExocetHeavy.ttf') format('truetype'),
+        url('font/ExocetHeavy.svg#ExocetHeavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background: #1f1f1f;
+
+    font-family: "Exocet";
+}
+
+#searchWrapper {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+#itemWrapper {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    margin: 5px;
+    border: 2px solid #514f4d;
+    background: #040404;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    flex: 1 0 21%;
+    display: block;
+    width: 200px;
+    overflow: none;
+}
+
+.item:hover,.item:active{
+    background: #131313;
+}
+
+.item h2, .item p, .item ul, .item li {
+    padding:0;
+    margin: 0;
+}
+
+.item h2, .item .runeword {
+    color:#b8a66e;
+    text-transform: uppercase;
+}
+
+.item .type {
+    color: #dcdcdc;
+    text-transform: uppercase;
+}
+
+.item ul.stats {
+    list-style-type:none;
+}
+
+.item ul.stats li, .item ul.cost li {
+    color: #6e6eff;
+    text-transform: uppercase;
+}
+
+.item ul.cost {
+    list-style-type: none;
+    border-top: 1px solid #514f4d;
+    margin-top: 15px;
+    padding-top: 5px;
+}

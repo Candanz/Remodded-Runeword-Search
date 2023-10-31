@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Exocet';
+    src: url('ExocetLight.eot');
+    src: url('ExocetLight.eot?#iefix') format('embedded-opentype'),
+        url('ExocetLight.woff2') format('woff2'),
+        url('ExocetLight.woff') format('woff'),
+        url('ExocetLight.ttf') format('truetype'),
+        url('ExocetLight.svg#ExocetLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Exocet';
+    src: url('ExocetHeavy.eot');
+    src: url('ExocetHeavy.eot?#iefix') format('embedded-opentype'),
+        url('ExocetHeavy.woff2') format('woff2'),
+        url('ExocetHeavy.woff') format('woff'),
+        url('ExocetHeavy.ttf') format('truetype'),
+        url('ExocetHeavy.svg#ExocetHeavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
